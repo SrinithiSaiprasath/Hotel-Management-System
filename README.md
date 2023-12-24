@@ -2,7 +2,7 @@
 The Hotel Management System is designed to streamline the workflow of hotel staff, 
 enhance guest services, and provide a centralized platform for managing all hotel-related
 operations. The use of Tkinter ensures a visually appealing and intuitive user interface, 
-while SQLite ensures a robust and scalable database structure for data management.
+while SQL ensures a robust and scalable database structure for data management.
 This project is ideal for those seeking to contribute to the hospitality industry by 
 providing a flexible and efficient solution for hotel management.
 
